@@ -81,4 +81,4 @@ Step 6-Evaluate Models
     
     Confusion Matrix → a table that shows actual vs predicted species. (Example: 10 flowers were setosa, model got all 10 correct.)
 
-Thus building an Machine Learning Model that predicts a flowers species just from its measurements
+Thus building a Machine Learning Model that predicts a flowers species just from its measurements
