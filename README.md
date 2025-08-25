@@ -81,4 +81,8 @@ Step 6-Evaluate Models
     
     Confusion Matrix → a table that shows actual vs predicted species. (Example: 10 flowers were setosa, model got all 10 correct.)
 
+Results:
+
 Thus building a Machine Learning Model that predicts a flowers species just from its measurements
+
+Which model is better? Random Forest is the clear winner as Logistic Regression focuses on Linear Findings and Decision Trees are less accurate compared to Random Forest
